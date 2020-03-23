@@ -30,6 +30,9 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 The Project displayed above is a similar project to the one i will be replicating, as it uses a similar concept with the fruit and how they use it to send a signal to the microbit to either display an image or create a sound. 
 
 ### Related project 3 ###
+Breadboard Layout
+
+https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard/breadboard-layout
 
 
 
