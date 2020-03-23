@@ -17,7 +17,10 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 
 ![Image](image.png)
 
-This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed.
+This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed. It also has the same concept of using musical side to the code rather than just a display project. This project uses acceleration and different buttons to change the musical note. 
+
+###Related project 2###
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
