@@ -43,7 +43,7 @@ Theremin
 
 https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12/21/project-bbc-microbit-light-theremin-by-cabe 
 
-
+![Image](theremin.png)
 
 
 ## Reading reflections ##
