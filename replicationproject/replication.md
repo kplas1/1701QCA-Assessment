@@ -15,7 +15,7 @@ Musical Guitar
 
 https://makecode.microbit.org/courses/csintro/arrays/project
 
-img.src = "image.png";
+![Image](image.png)
 
 This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed.
 
