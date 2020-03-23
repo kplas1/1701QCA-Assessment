@@ -38,6 +38,14 @@ https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard/bre
 
 This project is related to the prject that i will be replicating as it uses a breadboard to hook up the wires to the microbit rather than using actual crocodile clippers to connect directly to the microbit. Using a breadboard i will be able to create a link to the microbit without using actual crocodile clips. 
 
+### Related project 4 ###
+Theremin
+
+https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12/21/project-bbc-microbit-light-theremin-by-cabe 
+
+
+
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
