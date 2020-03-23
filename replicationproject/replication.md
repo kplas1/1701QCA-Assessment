@@ -45,7 +45,9 @@ https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12
 
 ![Image](theremin.png)
 
+This project uses the some of the same electronics tht i will be using which is the breadboard, microbit and the wires. I will be using the same equipment as this project uses just with fruit that will act as sensors. It also will have a similar flow for my chart that shows what is all connected and which recieves and sends. 
 
+### Related project 5 ### 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
