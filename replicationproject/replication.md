@@ -19,7 +19,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 
 This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed. It also has the same concept of using musical side to the code rather than just a display project. This project uses acceleration and different buttons to change the musical note. 
 
-###Related project 2###
+### Related project 2 ###
 
 Touch Arpeggiator
 
@@ -29,7 +29,7 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
 The Project displayed above is a similar project to the one i will be replicating, as it uses a similar concept with the fruit and how they use it to send a signal to the microbit to either display an image or create a sound. 
 
-###Related project 3###
+### Related project 3 ###
 
 
 
