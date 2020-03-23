@@ -20,6 +20,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed. It also has the same concept of using musical side to the code rather than just a display project. This project uses acceleration and different buttons to change the musical note. 
 
 ###Related project 2###
+
 Touch Arpeggiator
 
 https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
