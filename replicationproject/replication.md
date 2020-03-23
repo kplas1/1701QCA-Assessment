@@ -17,7 +17,7 @@ https://makecode.microbit.org/courses/csintro/arrays/project
 
 ![Image](code_for_musical_project.png)
 
-This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed. It also has the same concept of using musical side to the code rather than just a display project. This project uses acceleration and different buttons to change the musical note. 
+This project is related to mine because the code is similar to the code i will have to write, which is about playing different musical notes or songs when a button is pressed. It also has the same concept of using musical side to the code rather than just a display project. This project uses acceleration and different buttons to change the musical note. I can use similar code to code the microbit so that when it recieves information saying the fruit is being touched then it can play a musical rhythm or sound.  
 
 ### Related project 2 ###
 
@@ -27,14 +27,16 @@ https://make.techwillsaveus.com/microbit/activities/touch-arpeggiator
 
 ![Image](image.png)
 
-The Project displayed above is a similar project to the one i will be replicating, as it uses a similar concept with the fruit and how they use it to send a signal to the microbit to either display an image or create a sound. 
+The Project displayed above is a similar project to the one i will be replicating, as it uses a similar concept with the fruit and how they use it to send a signal to the microbit to either display an image or create a sound. Using a banana and a apple or orange i can create a link to the microbit so when it recieves that someone it touching the fruit it will play a sound. 
 
 ### Related project 3 ###
 Breadboard Layout
 
 https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard/breadboard-layout
 
+![Image](breadboard.png)
 
+This project is related to the prject that i will be replicating as it uses a breadboard to hook up the wires to the microbit rather than using actual crocodile clippers to connect directly to the microbit. Using a breadboard i will be able to create a link to the microbit without using actual crocodile clips. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
