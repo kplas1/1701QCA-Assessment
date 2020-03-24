@@ -140,7 +140,7 @@ This image displays me assembling the breadboard with the microbit ^^
 
 This image displays the wiring that is starting to be implemented and the battery being attached. ^^
 
-![Image](final.photo3.jpg)
+![Image](final_photo3.jpg)
 
 This image shows the wiring being implemented to the speaker and the bananas and apple being hooked up to the pins, grounds and voltage. ^^ 
 
