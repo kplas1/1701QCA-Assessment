@@ -102,13 +102,16 @@ The ideas in the reading relate to my project as there are little microinteracti
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I thought that designing a project wouldn't need as much visual representation and communication but the project revolves around that visual representation and communication alot. 
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I now know that the code is very important as it is the thing that helps communicate with the microbit and the sensors. This is very important as it is the bridge that allows the information that the sensor is getting to go to the microbit which will then create something else. This can be used for any way of getting data for example in the reading he states that he implemented a infrared camera into a store to detect physical movement to census the amount of people whom walk into the store.  
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would be intrested in knowing on how in the example in the reading, he could've detected how many people go in without it detecting all the people walking out of the shop. 
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+This relates to my project because i need my sensor to detect the right information to send to the microbit, being that it needs to know when a banana is being touched and what to play afterwoods. 
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
