@@ -75,6 +75,7 @@ This project can relate to my project as i can use different sounds to mimic dif
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
+
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
@@ -84,12 +85,16 @@ This project can relate to my project as i can use different sounds to mimic dif
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I thought that microinteractions would be little things you could play with or use which is correct but i thought that people will use them less and only if it was necessary. 
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What changed was that i now know that, Microinteractions are everywhere and we use them all the time, from literally everything. They are used in almost every technology as stated in the chapter "it is the glue that holds the product together". This is true as without the little microinteractions the product would be alot difficult to use, because we are so used to it being there for example the translate option on facebook. We don't really notice it unless we want to and if it is not there we will begin to notice and wonder why it is not there. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+A question i would like to know is, is there a product that can be used easily without a microinteraction? But it is not a microinteraction itself similar to the toaster example in the chapter, saying that the whole thing revolves around a microinteraction as it only does one thing and thats all we see it as.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+The ideas in the reading relate to my project as there are little microinteractions that are in the project, such as the connections to the microbit to the breadboard seeing as it should work when actually it could not and will need to be elaborated on to make it work. These little microinteractions need to be implemented or as said before the product will be harder to use as the user thinks that it should do it straight away no questions asked. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
