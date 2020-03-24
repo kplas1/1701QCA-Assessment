@@ -128,7 +128,43 @@ The flowchart represents what interacts with what. The battery is connected to t
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](start.png)
+![Image](start.jpg)
+
+This image displays the materials i will be using for my assignment which are the 2 bananas, apple, microbit, breadboard, speaker, battery and wiring. 
+
+![Image](start_2.jpg)
+
+This image displays me assembling the breadboard with the microbit
+
+![Image](start_3.jpg)
+
+This image displays the wiring that is starting to be implemented and the battery being attached.
+
+![Image](final.photo3jpg)
+
+This image shows the wiring being implemented to the speaker and the bananas and apple being hooked up to the pins, grounds and voltage. 
+
+![Image](completed.jpg)
+
+This is the completed look of the project. With the apple on the right, 2 bananas on the left with the microbit and breadboard in the middle. 
+
+![Image](start_of_project.png)
+
+This image displays the starting of the code, where i clarify the on start noise
+
+![Image](adding_p1_attributes.png)
+
+This image shows me adding the p1 attributes and adding the output tone
+
+![Image](elaborate_code.png)
+
+This image displays me elaborating a bit more on the code and adding p2 and its attributes 
+
+![Image](final_code.png)
+
+This is what was the originally the final code displaying both p1 and p2 attributes. 
+
+
 
 *Include screenshots of the code you have used.*
 
