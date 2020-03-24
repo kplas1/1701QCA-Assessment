@@ -45,7 +45,7 @@ https://www.element14.com/community/community/stem-academy/microbit/blog/2018/12
 
 ![Image](theremin.png)
 
-This project uses the some of the same electronics tht i will be using which is the breadboard, microbit and the wires. I will be using the same equipment as this project uses just with fruit that will act as sensors. It also will have a similar flow for my chart that shows what is all connected and which recieves and sends. 
+This project uses the some of the same electronics tht i will be using which is the breadboard, microbit and the wires. I will be using the same equipment as this project uses just with fruit that will act as sensors. It also will have a similar flow for my chart that shows what is all connected and which recieves and sends. This project is more of a final visual look of what my microbit, breadboard and wiring will look like in the end.
 
 ### Related project 5 ###
 Lines
@@ -55,6 +55,9 @@ https://youtu.be/hP36xoPXDnM
 ![Image](lines_project.png)
 
 This project is fairly similar to the project tha i am replicating just on a much larger scale. This project uses the touch sensors to play a musical note and if you raise your hand it raises the pitch. The technology behind this project is advanced as it uses different sensors and wiring behind it. Overall this project uses a similar concept just on a much larger scale.
+
+### Related project 6 ###
+
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
