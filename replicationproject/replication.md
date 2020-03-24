@@ -188,13 +188,13 @@ The project is a keyboard in a way using fruits, this is used by sending a curre
 
 ![Image](final_photo3.jpg)
 
-![Image](final_photo.png)
+![Image](final_photo.jpg)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](final_photo1.png)
+![Image](final_photo1.jpg)
 
 ### Reflection ###
 
