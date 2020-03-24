@@ -52,7 +52,7 @@ Lines
 
 https://youtu.be/hP36xoPXDnM
 
-![Image](theremin.png)
+![Image](lines_project.png)
 
 This project is fairly similar to the project tha i am replicating just on a much larger scale. This project uses the touch sensors to play a musical note and if you raise your hand it raises the pitch. The technology behind this project is advanced as it uses different sensors and wiring behind it. Overall this project uses a similar concept just on a much larger scale.
 
