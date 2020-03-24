@@ -186,8 +186,6 @@ The project is a keyboard in a way using fruits, this is used by sending a curre
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](final_photo3.jpg)
-
 ![Image](final_photo.jpg)
 
 ### Additional view ###
