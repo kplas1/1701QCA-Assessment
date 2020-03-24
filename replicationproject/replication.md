@@ -62,7 +62,7 @@ Sonic Police Weapon
 https://news.artnet.com/art-world/12-sound-artists-changing-perception-art-587054
 
 
-![Image](lines_project.png)
+![Image](samson_young.png)
 
 This project can relate to my project as i can use different sounds to mimic different scenarios which can crate an image in the users head. Of course this would be fairly difficult as the user must know what these sounds are from or mean so that they can create a image in their head. I got this idea because in the video he creates the sounds based off a video but if hat were to be reversed and were to jsut hear the sounds, someone can create a image in the head of what is going on which in this case would be a warzone. 
 
