@@ -74,15 +74,17 @@ Using a transister to drive a motor
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](fan_experiment.jpg)
 
-(Insert a caption here)
+![Image](transition_motor_code.png)
+
+This experiment has a fan accelerate when started
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was? Something new i learned was you can add different rotary machines to your microbit and can experiment with about anything
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as? This can be used for an automated fan, obviously on a much larger scale or even a small portable one. 
 
 ### Experiment name ###
 
@@ -91,13 +93,15 @@ Say "hello" to the BBC microbit
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](hello_microbit_code.png)
 
-(Insert a caption here)
+![Image](hello_microbit.jpg)
+
+In this experiment i displayed an image and a phrase
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was? I learned that we can display different images and words or phrases that the user can read and interact with. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as? This experiment can be used to communicate different images to users for different occasions such as deaf or just to display a message to the user/ reader. 
 
