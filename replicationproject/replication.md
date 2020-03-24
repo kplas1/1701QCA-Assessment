@@ -74,13 +74,16 @@ This project can relate to my project as i can use different sounds to mimic dif
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-
+I thought that the affordance would be something not needed, but infact it is very important for designs.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I learned that the affordance is a very important thing that should be implemented into a project. This is because alot of designers know that the user does not know what they are thinking and why they created guides (affordances and signifiers) for something. That is what alot of beginners miss when creating a project, is that they create something that obviously means something but to the user it means nothing. That is why signifiers and affordances need to be implemented to guide the user to what they need to do and how they can interact or understand what the designer is telling them to do. 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to know on how far does it need to go before there is too much information that can confuse the user? For example a designer create a project for something and can be interacted with, but obviously the user needs to know whats going on without getting handed the entire manual full of code that they don't understand. So when is too much information for the user? because designers want to make it as easy as possible to use. 
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This relates to my project as alot of users when looking at my project will be slightly confused s there is a bunch or wiring from a banana to a random piece of technology. Then again my project will lead the user to curiosity and will likley end up touching the banana to see what it does. Other than that there should be a message written or displayed that shows 'press on banana' or 'touch fruit' so it can direct the user to what they can do with the project. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
