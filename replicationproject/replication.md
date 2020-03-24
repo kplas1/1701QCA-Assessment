@@ -57,7 +57,14 @@ https://youtu.be/hP36xoPXDnM
 This project is fairly similar to the project tha i am replicating just on a much larger scale. This project uses the touch sensors to play a musical note and if you raise your hand it raises the pitch. The technology behind this project is advanced as it uses different sensors and wiring behind it. Overall this project uses a similar concept just on a much larger scale.
 
 ### Related project 6 ###
+Sonic Police Weapon
 
+https://news.artnet.com/art-world/12-sound-artists-changing-perception-art-587054
+
+
+![Image](lines_project.png)
+
+This project can relate to my project as i can use different sounds to mimic different scenarios which can crate an image in the users head. Of course this would be fairly difficult as the user must know what these sounds are from or mean so that they can create a image in their head. I got this idea because in the video he creates the sounds based off a video but if hat were to be reversed and were to jsut hear the sounds, someone can create a image in the head of what is going on which in this case would be a warzone. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
