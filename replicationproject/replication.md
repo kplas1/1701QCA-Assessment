@@ -157,12 +157,15 @@ The flowchart represents what interacts with what. The battery is connected to t
 ### Reflection ###
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+The parts that i found successful were the actual connection of the bananas and apple. At the start i found it pretty difficult to connect them to P1, P2 and ground on the breadboard. What i found out was the connections were not wired correctly and that i need an actual eletrical current. What i found challenging was mainly setting up the breadboard wires and some of the code. Mainly creating the song loop for P1 was rather hard as i needed it to be a shorter pause but it did not allow me to so i had to work with what i had been given. 
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+I found that many of the readings helped me in regards to the flow of the system and how the different things interact with eachother and how the user interacts with the project. I found that one of the related projects (Lines) was fairly similar to mine just on a much larger and more advanced scale as he uses physical sensors to detect where his hand is and the pitch to play. 
 
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+Well the Lines project was fairly similar to my project as it uses the same concept, detecting via a sensor and playing a musical sound when the sensor goes on. Other than that the project in the reading (Scott Sullivan, Prototyping Interactive Objects) he uses a thermal sensors to detect movement which sends to him information about how many people go into the store. This relates to my project in a way that the banana sends the information to the microbit saying the current is getting linked which signals the microbit to play a tune. It is just one big circut. 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+A very good extension would be similar to the Lines project as said before it uses sensors to detect when and where a the hand is located and then it will transmit a sound. Obviously it will have to use much more advanced technology such as thermal sensors or ight sensors even to detect where the hand is place and when to raise the pitch.
