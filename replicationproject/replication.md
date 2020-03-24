@@ -146,7 +146,7 @@ The flowchart represents what interacts with what. The battery is connected to t
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](final_photo3.jpg)
 
 ### Additional view ###
 
