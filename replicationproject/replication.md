@@ -130,41 +130,43 @@ The flowchart represents what interacts with what. The battery is connected to t
 
 ![Image](start.jpg)
 
-This image displays the materials i will be using for my assignment which are the 2 bananas, apple, microbit, breadboard, speaker, battery and wiring. 
+This image displays the materials i will be using for my assignment which are the 2 bananas, apple, microbit, breadboard, speaker, battery and wiring. ^^
 
 ![Image](start_2.jpg)
 
-This image displays me assembling the breadboard with the microbit
+This image displays me assembling the breadboard with the microbit ^^
 
 ![Image](start_3.jpg)
 
-This image displays the wiring that is starting to be implemented and the battery being attached.
+This image displays the wiring that is starting to be implemented and the battery being attached. ^^
 
 ![Image](final.photo3jpg)
 
-This image shows the wiring being implemented to the speaker and the bananas and apple being hooked up to the pins, grounds and voltage. 
+This image shows the wiring being implemented to the speaker and the bananas and apple being hooked up to the pins, grounds and voltage. ^^ 
 
 ![Image](completed.jpg)
 
-This is the completed look of the project. With the apple on the right, 2 bananas on the left with the microbit and breadboard in the middle. 
+This is the completed look of the project. With the apple on the right, 2 bananas on the left with the microbit and breadboard in the middle. ^^
 
 ![Image](start_of_project.png)
 
-This image displays the starting of the code, where i clarify the on start noise
+This image displays the starting of the code, where i clarify the on start noise ^^
 
 ![Image](adding_p1_attributes.png)
 
-This image shows me adding the p1 attributes and adding the output tone
+This image shows me adding the p1 attributes and adding the output tone ^^
 
 ![Image](elaborate_code.png)
 
-This image displays me elaborating a bit more on the code and adding p2 and its attributes 
+This image displays me elaborating a bit more on the code and adding p2 and its attributes ^^
 
 ![Image](final_code.png)
 
-This is what was the originally the final code displaying both p1 and p2 attributes. 
+This is what was the originally the final code displaying both p1 and p2 attributes. ^^
 
+![Image](completed_code.png)
 
+This image displays my completed code for my project ^^
 
 *Include screenshots of the code you have used.*
 
@@ -173,10 +175,12 @@ This is what was the originally the final code displaying both p1 and p2 attribu
 *Complete the following information.*
 
 ### Project title ###
+Banana Keyboard
 
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+The project is a keyboard in a way using fruits, this is used by sending a current through the apple which will go through the user and when touched on one of the bananas will play a tune or note. 
 
 ### Showcase image ###
 
@@ -184,11 +188,13 @@ This is what was the originally the final code displaying both p1 and p2 attribu
 
 ![Image](final_photo3.jpg)
 
+![Image](final_photo.png)
+
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](final_photo1.png)
 
 ### Reflection ###
 
